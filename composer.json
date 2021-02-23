@@ -1,0 +1,14 @@
+{
+    "name": "knezevicdev/g-optimizer",
+    "description": "Google PageSpeed Optimization helper for WordPress.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nikola Knežević",
+            "email": "knezevicdev@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.2"
+    }
+}
